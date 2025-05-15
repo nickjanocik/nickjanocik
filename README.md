@@ -85,8 +85,9 @@
 
 ### 🎯 Fun Facts  
 
-- 🎸 Music producer and songwriter with multiple Spotify releases as **Nick Jaye**.  
-- 🏞️ Hiking enthusiast and adrenaline junkie - always seeking the next adventure.  
+- 🎸 Music producer, songwriter, audio engineer and multi-instrumentalist with multiple Spotify releases as **Nick Jaye**.  
+- 🏞️ Hiking enthusiast and adrenaline junkie - always seeking the next adventure.
+- 🏋️‍♂️ CrossFit (Beta-alanine) junkie!
 - 💍 Recently engaged - planning a wedding, one milestone at a time!
 
 ---
