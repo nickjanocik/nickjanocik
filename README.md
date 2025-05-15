@@ -2,7 +2,7 @@
 
 #  Howdy! I'm Nick Janocik..
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRpYnBjZGRwemo2amg4ZWNtMDR3aW92Z3p3ZnpveG92d2hjemgwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="600" height="200" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhmODNkNDd1MjJwb3ZrcTd5bXQ4NWNwaWgyYnd4Y3N6anJza2tvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif" width="600" height="200" />
 
 #### I'm a software engineer with a passion for building dynamic applications, optimizing cloud systems, and creating AI-powered solutions that make life easier.
 
