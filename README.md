@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/-Assembly-6E4C13?logo=asm&logoColor=white" alt="Assembly"/>&nbsp;
 <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB"/>&nbsp;
 <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R"/>&nbsp;
-<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>&nbsp;
@@ -92,6 +91,6 @@
 
 ---
 
-Thanks for stopping by! Let's chat - I'm always open to new projects, collaborations, and opportunities to make something awesome! 🚀
+Thanks for stopping by! Let's chat- I'd love to discuss how I could help make your dream a reality.
 
 </div>
